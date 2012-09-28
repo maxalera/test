@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	background-color: #555;
+	padding: 20px;
+	margin: 0;
+	width: 100%;
+	height:100%;
+	
+	text-align:center;
+}
+
+.btn01 {
+	background: transparent url('s1.png') no-repeat scroll center bottom;
+	display: block;
+	min-height:480px;
+	height:100%;
+	width:100%;
+	}
+	
+.btn02 {
+	background: transparent url('s2.png') no-repeat scroll center bottom;
+	display: block;
+	min-height:480px;
+	height:100%;
+	width:100%;
+	}
+	
